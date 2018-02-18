@@ -1,0 +1,30 @@
+User-agent: Yandex
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /comments
+Disallow: */trackback
+Disallow: */embed
+Disallow: */feed
+Disallow: /cgi-bin
+Disallow: *?s=
+Host: http://xn--80alhmi4a2e.xn--80adxhks
+
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /comments
+Disallow: */trackback
+Disallow: */embed
+Disallow: */feed
+Disallow: /cgi-bin
+Disallow: *?s=
+
+Sitemap: http://xn--80alhmi4a2e.xn--80adxhks/xmlsitemap.xml
